@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*- 
 #tools.py  公共工具集，主要是使用python对文件夹进行svn操作
 
-import pysvn
+import pysvn #http://www.codingart.info/python-install-pysvn.html
 import filecmp
 import sys
 import os
